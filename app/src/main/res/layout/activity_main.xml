@@ -31,7 +31,7 @@
             android:layout_marginTop="15dp"
             android:layout_marginEnd="15dp"
             android:gravity="end|bottom"
-            android:text="56"
+            tools:text="56"
             android:textColor="@color/white"
             android:textSize="52dp" />
 
@@ -41,7 +41,7 @@
             android:layout_height="60dp"
             android:layout_marginEnd="15dp"
             android:gravity="end|top"
-            android:text="10"
+            tools:text="10"
             android:textColor="@color/white"
             android:textSize="52dp" />
 
@@ -174,13 +174,15 @@
             android:backgroundTint="@color/black"
             android:textSize="25dp"
             android:layout_marginStart="12dp" />
+
         <Button
+            android:id="@+id/btn_mult"
             android:layout_width="84dp"
             android:layout_height="89dp"
-            android:text="X"
+            android:layout_marginStart="12dp"
             android:backgroundTint="#0A7CD3"
-            android:textSize="30dp"
-            android:layout_marginStart="12dp" />
+            android:text="X"
+            android:textSize="30dp" />
 
     </LinearLayout>
     <LinearLayout
