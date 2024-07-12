@@ -19,3 +19,5 @@ ScriptEngine: Utilizado para a avaliação das expressões matemáticas inserida
 Estrutura do Código
 MainActivity: Atividade principal que gerencia a interface do usuário e lida com a lógica das operações matemáticas.
 Layout XML (activity_main.xml): Define a interface do usuário, incluindo botões, text views e outros componentes de UI.
+
+![calculater](https://github.com/user-attachments/assets/e82bdbb3-59e5-42b8-ba51-20a2340ee25d)
