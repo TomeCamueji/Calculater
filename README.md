@@ -20,6 +20,5 @@ Estrutura do Código
 MainActivity: Atividade principal que gerencia a interface do usuário e lida com a lógica das operações matemáticas.
 Layout XML (activity_main.xml): Define a interface do usuário, incluindo botões, text views e outros componentes de UI.
 
-![calculater](https://github.com/user-attachments/assets/e82bdbb3-59e5-42b8-ba51-20a2340ee25d)
-![calcat](https://github.com/user-attachments/assets/76279673-d0ab-40f8-9816-3b7ef52eee37)
+![calculater](https://github.com/user-attachments/assets/e82bdbb3-59e5-42b8-ba51-20a2340ee25d)                   ![calcat](https://github.com/user-attachments/assets/76279673-d0ab-40f8-9816-3b7ef52eee37)
 ![calculate](https://github.com/user-attachments/assets/3b96534e-5a2f-46a2-92c4-7b828ce93e7c)
